@@ -5,5 +5,4 @@ it supports custom templates [self made] it needs the user to provide some stuff
 
 # contact me if you want 
 Discord 
-ampedgemsmods
-
+https://discord.gg/mMA8UKnUNV
